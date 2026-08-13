@@ -1,6 +1,8 @@
 # multi_roc
 Multi-class classification Receiver Operating Characteristic (ROC) Analysis Use multi_roc (multiROC) With (In) R Software
 
+https://www.youtube.com/watch?v=5zCCKoOISYE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
